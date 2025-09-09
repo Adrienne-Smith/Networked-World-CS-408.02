@@ -5,8 +5,13 @@ body{
 
 h1{
     text-align: center;
-    color: #FCB8F0;
+    color: #FA78E3;
 }
+
 p{
-    color: #FCB8F0;
+    color: #FA78E3;
+}
+
+body{
+    text-color:#FA78E3
 }
